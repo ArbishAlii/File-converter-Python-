@@ -1,9 +1,7 @@
-
 [tool.poetry]
 name = "file-converter"
 version = "0.1.0"
 description = "Add your description here"
-
 readme = "README.md"
 
 [tool.poetry.dependencies]
